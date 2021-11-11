@@ -12,6 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.instagram.com/iamyoungjin/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://devyjna.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+
+<p align="center">
+Hi there!👋 </br>
+I'm a software engineer who very interested in Computer Vision🚀</br>
+I enjoy learning foreign language :kr::cn::us: and i hope to think, change and develop for every beautiful things. ✨
+</p>
+
+
 <!--
 
 img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">

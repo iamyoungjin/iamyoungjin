@@ -15,18 +15,22 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/iamyoungjin/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://devyjna.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        <img 
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 
+
 <p align="center">
-Hi there!👋 </br>
+👋 Hi there! </br>
 I'm a software engineer who very interested in Computer Vision🚀</br>
 I enjoy learning foreign language :kr::cn::us: and i hope to think, change and develop for every beautiful things. ✨
 </p>
@@ -39,12 +43,13 @@ img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> 
 
 -->
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 Tech Stack </b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-F7DF1E?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/React-4479A1?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Django-1572B6?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/TensorFlow-E34F26?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-232F3E?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Spring-339933?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp

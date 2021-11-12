@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p>
 <a href="https://www.instagram.com/iamyoungjin/">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
@@ -27,14 +27,15 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+</p>
+</br>
 
-
+## iamyoungjin: Junior Developer
 <p align="center">
 👋 Hi there! </br>
 I'm a software engineer who very interested in Computer Vision🚀</br>
 I enjoy learning foreign language :kr::cn::us: and i hope to think, change and develop for every beautiful things. ✨
 </p>
-
 
 <!--
 
@@ -43,6 +44,7 @@ img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> 
 
 -->
+</br>
 <h3 align="center"><b>🛠 Tech Stack </b></h3>
 </br>
 <p align="center">
